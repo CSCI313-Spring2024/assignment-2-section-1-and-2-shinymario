@@ -1,0 +1,92 @@
+
+
+p
+{
+    color: black;
+}
+
+html, body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-family: "Space Grotesk", serif;
+  }
+
+  .card-img-top {
+    width: 100%;        /* Ensures the image fills the card */
+    height: 200px;      /* Set a fixed height for all images */
+    object-fit: cover;  /* Ensures the image covers the area without distortion */
+  }
+  
+
+.hobbies
+{
+    text-align: center;
+    color: black;
+    list-style-position: inside;
+}
+
+footer{
+    margin-top: auto;
+    width: 100%;
+}
+
+h3
+{
+    color: black;
+}
+
+.carousel-item img {
+    height: 900px;
+    width: 300px;
+    object-fit: cover;
+  }
+
+h1
+{
+    color: rgba(255, 99, 71, 0.5);
+}
+
+#para1
+{
+    background-color: beige;
+    color: firebrick;
+}
+
+#para2
+{
+    color: darkorchid;
+    margin-top: 50px;
+}
+
+ul li{
+    font-style: italic;
+}
+
+.rap
+{
+    color:aliceblue;
+}
+
+.theoinfo
+{
+    text-align: center;
+}
+
+.alternative
+{
+    color:aquamarine;
+}
+
+.rock
+{
+    color:blanchedalmond;
+}
+
+.carousel-caption p
+{   background-color: black;
+    font-style: bold;
+    color: whitesmoke;
+    display: inline;
+}
+
